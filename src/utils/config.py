@@ -1,0 +1,10 @@
+RANDOM_STATE = 42
+
+BEST_NGRAM_RANGE = (
+    1,
+    2,
+)
+
+BEST_MIN_DF = 1
+
+BEST_C = 2.0
