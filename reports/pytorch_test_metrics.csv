@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+PyTorch Embedding Classifier,0.8331168831168831,0.8414649654076909,0.833116883116883,0.8335113945809037

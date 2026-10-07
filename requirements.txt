@@ -9,3 +9,4 @@ sqlalchemy
 python-dotenv
 pytest
 joblib
+torch
