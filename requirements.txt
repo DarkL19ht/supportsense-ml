@@ -10,3 +10,4 @@ python-dotenv
 pytest
 joblib
 torch
+tensorflow

@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+TensorFlow Embedding Classifier,0.8785714285714286,0.8824834473288271,0.8785714285714287,0.8784921428526424
