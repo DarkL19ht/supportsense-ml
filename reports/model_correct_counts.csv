@@ -1,0 +1,4 @@
+Model,Correct Predictions
+Linear SVM,2751
+PyTorch,2566
+TensorFlow,2706

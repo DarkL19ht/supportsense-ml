@@ -1,0 +1,4 @@
+Model,Feature Representation,Training API,Custom Training Loop,Neural Network,Preprocessing Complexity,Deployment Complexity
+Linear SVM,TF-IDF,scikit-learn fit(),No,No,Low,Low
+PyTorch,Learned embeddings,Custom training loop,Yes,Yes,Medium,Medium
+TensorFlow,Learned embeddings,Keras model.fit(),No,Yes,Medium,Medium
