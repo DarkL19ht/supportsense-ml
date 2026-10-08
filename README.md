@@ -4,6 +4,15 @@ An end-to-end machine-learning project that classifies banking customer-support 
 
 The project covers exploratory data analysis, SQL data storage, text preprocessing, classical machine learning, neural-network experimentation, model evaluation, automated testing, and an interactive Gradio application.
 
+## Live Demo
+
+Try the deployed SupportSense application:
+
+**[Launch SupportSense]https://supportsense-ml.onrender.com/**
+
+> Hosted on Render's free tier. The application may take
+> a short time to start after a period of inactivity.
+
 ## Project Overview
 
 Customer-support teams receive messages about card deliveries, payments, cash withdrawals, account access, transfers, and other banking issues.
@@ -168,7 +177,12 @@ supportsense-ml/
 
 ## Project Status
 
-**Model development, comparison, automated testing, and local Gradio application completed.**
+**Completed and publicly deployed.**
 
-This repository is a machine-learning engineering portfolio project.
+- BANKING77 dataset exploration and PostgreSQL integration
+- TF-IDF + Linear SVM, PyTorch and TensorFlow model development
+- Model evaluation, comparison and selection
+- Gradio application with reusable inference logic
+- Automated pytest testing
+- Public deployment on Render
 
