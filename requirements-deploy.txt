@@ -1,0 +1,7 @@
+# The production requirements for the SupportSense ML model deployment
+# These are the main packages needed for a typical saved TF-IDF + Linear SVM pipeline.
+gradio==6.29.1
+scikit-learn==1.9.1
+joblib==1.6.0
+numpy==2.5.3
+scipy==1.18.1

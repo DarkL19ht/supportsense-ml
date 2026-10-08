@@ -58,8 +58,6 @@ The prediction module is separated from the user interface to allow independent 
 
 ## 6. Limitations
 
-The application currently runs as a local Gradio demonstration.
-
-It does not implement user authentication, production monitoring, automated model updates, or a banking-system integration.
+The application does not implement user authentication, production monitoring, automated model updates, or a banking-system integration.
 
 The classifier produces intent labels, not verified answers or banking actions.

@@ -88,3 +88,18 @@ def test_missing_model_file():
         load_model(
             "models/does_not_exist.joblib"
         )
+
+def test_model_prediction_is_repeatable(trained_model):
+    message = "My card has not arrived yet"
+
+    first_prediction = predict_intent(
+        message,
+        trained_model,
+    )
+
+    second_prediction = predict_intent(
+        message,
+        trained_model,
+    )
+
+    assert first_prediction == second_prediction
